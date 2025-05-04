@@ -26,3 +26,4 @@ Data pre-processing: • Segregate predictors vs target attributes • Perform n
 Model training, testing and tuning: • Design and train a KNN classifier. • Display the classification accuracies for train and test data. • Display and explain the classification report in detail. • Automate the task of finding best values of K for KNN. • Apply all the possible tuning techniques to train the best model for the given data. Select the final best trained model with your comments for selecting this model.
 
 Conclusion and improvisation: • Write your conclusion on the results. • Detailed suggestions or improvements or on quality, quantity, variety, velocity, veracity etc. on the data points collected by the research team to perform a better data analysis in future.
+![Screenshot 2025-05-05 051516](https://github.com/user-attachments/assets/05218876-e4e0-4f71-b840-e11d395abf32)
