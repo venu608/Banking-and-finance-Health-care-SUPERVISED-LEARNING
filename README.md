@@ -27,3 +27,7 @@ Model training, testing and tuning: • Design and train a KNN classifier. • D
 
 Conclusion and improvisation: • Write your conclusion on the results. • Detailed suggestions or improvements or on quality, quantity, variety, velocity, veracity etc. on the data points collected by the research team to perform a better data analysis in future.
 ![Screenshot 2025-05-05 051516](https://github.com/user-attachments/assets/05218876-e4e0-4f71-b840-e11d395abf32)
+![Screenshot 2025-05-05 051418](https://github.com/user-attachments/assets/9381a7f2-60a8-4946-a11f-1d12ab6d373e)
+![Screenshot 2025-05-05 051500](https://github.com/user-attachments/assets/e6700ac0-e406-4a28-8f8e-4d5f2686d4c8)
+
+
